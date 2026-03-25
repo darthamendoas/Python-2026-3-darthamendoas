@@ -6,4 +6,4 @@ if l1==l2==l3:
 elif l1==l2 or l2==l3 or l3==l1:
     print("Isósceles")
 else:
-    print("Obtuso")
+    print("Escaleno")
