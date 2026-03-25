@@ -1,4 +1,4 @@
-idade=float(input("Quantos anos vpcê tem: "))
+idade=int(input("Quantos anos vpcê tem: "))
 if idade<13:
     print("Criança")
 elif idade<20:
